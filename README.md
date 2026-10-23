@@ -7,42 +7,38 @@
   <img src="https://img.shields.io/badge/Location-Hamburg%2C%20Germany-555555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Hamburg, Germany"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/itsalwaysamir?tab=achievements"><img width="64" src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" alt="Pull Shark x2" title="Pull Shark x2"/></a>
+  <a href="https://github.com/itsalwaysamir?tab=achievements"><img width="64" src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" alt="Pair Extraordinaire" title="Pair Extraordinaire"/></a>
+  <a href="https://github.com/itsalwaysamir?tab=achievements"><img width="64" src="https://github.githubassets.com/assets/quickdraw-default--medium-0bdca502f5b4.png" alt="Quickdraw" title="Quickdraw"/></a>
+  <a href="https://github.com/itsalwaysamir?tab=achievements"><img width="64" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="YOLO" title="YOLO"/></a>
+  <br/>
+  <sub><b>Pull Shark ×2</b> · <b>Pair Extraordinaire</b> · <b>Quickdraw</b> · <b>YOLO</b></sub>
+</p>
+
 ---
 
-### 🚀 About me
+### 🙋 About me
 
-I build production AI applications that turn large language models into real value for customers and teams.
-After **7+ years** in data analysis, data science and AI engineering, I now focus on
-**LLM-powered backends, AI agents and cloud-native delivery**.
+I'm Amir, an AI engineer based in Hamburg. I love turning large language models into products that actually help people.
+After **7+ years** in data analysis, data science and AI engineering, I now build **LLM-powered backends, AI agents and cloud-native services**.
 
-- 🎙️ **Currently:** AI Application Developer at **[freenet](https://www.freenet-group.de)**, working on the backend of
-  **Genie**, freenet's AI voice assistant for customer service, and on the AI platform behind it
+- 🎙️ **Currently:** AI Application Developer at **[freenet](https://www.freenet-group.de)**, building the backend of
+  **Genie**, freenet's AI voice assistant for customer service, and the AI platform behind it
 - 🧠 **Focus:** agentic workflows (LangGraph / LangChain), Amazon Bedrock & Claude, RAG, Model Context Protocol (MCP)
-- ⚙️ **How I work:** Python & Node.js, CI/CD with GitHub Actions, containers, AWS, and AI-assisted development with **Claude Code**
+- ⚙️ **How I work:** Python & Node.js, CI/CD, containers, AWS, and AI-assisted development with **Claude Code**
 - 🎓 M.Sc. Integrated Climate System Science (Universität Hamburg) · B.Sc. Physics
-- 🌍 English · German (C1) · Persian (native)
+- 🌍 English · German · Persian
 
 ---
 
 ### 💼 Experience
 
-**AI Application Developer · freenet** — *Hamburg · 2026 – present*
-- Backend development for **Genie**, an LLM-based voice assistant that handles customer-service conversations
-- Building agent flows and tools with **Python, FastAPI and LangGraph** on **Amazon Bedrock**
-- Shipping through **CI/CD pipelines** with automated testing, container builds and dependency/security updates
-- Using **Claude Code** day to day for development, code review, debugging and incident analysis
-
-**Data Scientist / AI Engineer · zapliance** — *Hamburg · 2023 – 2026*
-- Built an **MCP-based conversational AI** that connects LLMs to SAP audit data, so auditors can query findings in natural language
-- Developed a **document-intelligence solution** (Python, Azure OpenAI, Azure AI Document Intelligence) to detect duplicate invoices and missing VAT evidence, cutting false positives through automated validation
-- Trained and evaluated **ML models** (Random Forest, CatBoost, neural networks) for duplicate detection with feature engineering and hyperparameter tuning
-- Delivered GenAI and MCP tools for document analysis, meeting intelligence, customer-insight extraction and audit-log analysis
-- Led research and prototypes on MCP integrations, open-source LLMs and multi-agent systems
-
-**Operational Data Analyst · Hoppe Marine** — *Hamburg · 2017 – 2021*
-- Analysed operational and system data from maritime maintenance and support to find anomalies and recurring failure patterns
-- Built and maintained analysis and automation scripts in **Python and MATLAB** for reporting and diagnostics
-- Ran root-cause analyses of technical failures in maritime systems and ensured data quality across sources
+| Role | Company | Period |
+|---|---|---|
+| **AI Application Developer**: backend for the Genie voice assistant, LangGraph agents on Amazon Bedrock | freenet | 2026 – present |
+| **Data Scientist / AI Engineer**: MCP-based conversational AI on SAP audit data, document intelligence with Azure OpenAI, ML models for duplicate detection | zapliance | 2023 – 2026 |
+| **Operational Data Analyst**: anomaly detection and root-cause analysis for maritime systems with Python & MATLAB | Hoppe Marine | 2017 – 2021 |
 
 ---
 
@@ -92,18 +88,22 @@ After **7+ years** in data analysis, data science and AI engineering, I now focu
 
 ---
 
-### 📊 GitHub activity & achievements
+### 🌊 Beyond the code
+
+When I'm not building AI systems, you'll probably find me on the water or on the move:
+
+- 🏄 **Stand-up paddling** on Hamburg's lakes and canals
+- 🏊 **Sports:** swimming, cycling and running keep my head clear
+- 🎮 **Computer games**, especially logic and strategy games
+- ✈️ **Traveling**, discovering new places, cultures and food
+- 🎵 **Music**, always on while I code
+- 💡 **Technology**, always curious about what's next in AI and beyond
+
+---
+
+### 📊 GitHub activity
 
 > Most of my day-to-day work lives in private company repositories, so the public activity here is only part of the picture.
-
-<p align="center">
-  <a href="https://github.com/itsalwaysamir?tab=achievements"><img width="80" src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" alt="Pull Shark x2" title="Pull Shark x2"/></a>
-  <a href="https://github.com/itsalwaysamir?tab=achievements"><img width="80" src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" alt="Pair Extraordinaire" title="Pair Extraordinaire"/></a>
-  <a href="https://github.com/itsalwaysamir?tab=achievements"><img width="80" src="https://github.githubassets.com/assets/quickdraw-default--medium-0bdca502f5b4.png" alt="Quickdraw" title="Quickdraw"/></a>
-  <a href="https://github.com/itsalwaysamir?tab=achievements"><img width="80" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="YOLO" title="YOLO"/></a>
-  <br/>
-  <sub><b>Pull Shark ×2</b> · <b>Pair Extraordinaire</b> · <b>Quickdraw</b> · <b>YOLO</b></sub>
-</p>
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=itsalwaysamir&hide_border=true&theme=transparent" alt="GitHub streak"/>
