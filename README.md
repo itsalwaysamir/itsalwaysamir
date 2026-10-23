@@ -97,7 +97,6 @@ After **7+ years** in data analysis, data science and AI engineering, I now focu
 > Most of my day-to-day work lives in private company repositories, so the public activity here is only part of the picture.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsalwaysamir&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
   <img height="165" src="https://streak-stats.demolab.com?user=itsalwaysamir&hide_border=true&theme=transparent" alt="GitHub streak"/>
 </p>
 
