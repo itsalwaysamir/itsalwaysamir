@@ -36,9 +36,9 @@ After **7+ years** in data analysis, data science and AI engineering, I now buil
 
 | Role | Company | Period |
 |---|---|---|
-| **AI Application Developer**: backend for the Genie voice assistant, LangGraph agents on Amazon Bedrock | freenet | 2026 – present |
-| **Data Scientist / AI Engineer**: MCP-based conversational AI on SAP audit data, document intelligence with Azure OpenAI, ML models for duplicate detection | zapliance | 2023 – 2026 |
-| **Operational Data Analyst**: anomaly detection and root-cause analysis for maritime systems with Python & MATLAB | Hoppe Marine | 2017 – 2021 |
+| **AI Application Developer**: backend for the Genie voice assistant, LangGraph agents on Amazon Bedrock | freenet AG | 2026 – present |
+| **Data Scientist / AI Engineer**: MCP-based conversational AI on SAP audit data, document intelligence with Azure OpenAI, ML models for duplicate detection | zapliance GmbH| 2023 – 2026 |
+| **Operational Data Analyst**: anomaly detection and root-cause analysis for maritime systems with Python & MATLAB | Hoppe Marine GmbH| 2017 – 2021 |
 
 ---
 
