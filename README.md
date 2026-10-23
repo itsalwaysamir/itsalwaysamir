@@ -92,9 +92,18 @@ After **7+ years** in data analysis, data science and AI engineering, I now focu
 
 ---
 
-### 📊 GitHub stats
+### 📊 GitHub activity & achievements
 
 > Most of my day-to-day work lives in private company repositories, so the public activity here is only part of the picture.
+
+<p align="center">
+  <a href="https://github.com/itsalwaysamir?tab=achievements"><img width="80" src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" alt="Pull Shark x2" title="Pull Shark x2"/></a>
+  <a href="https://github.com/itsalwaysamir?tab=achievements"><img width="80" src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" alt="Pair Extraordinaire" title="Pair Extraordinaire"/></a>
+  <a href="https://github.com/itsalwaysamir?tab=achievements"><img width="80" src="https://github.githubassets.com/assets/quickdraw-default--medium-0bdca502f5b4.png" alt="Quickdraw" title="Quickdraw"/></a>
+  <a href="https://github.com/itsalwaysamir?tab=achievements"><img width="80" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="YOLO" title="YOLO"/></a>
+  <br/>
+  <sub><b>Pull Shark ×2</b> · <b>Pair Extraordinaire</b> · <b>Quickdraw</b> · <b>YOLO</b></sub>
+</p>
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=itsalwaysamir&hide_border=true&theme=transparent" alt="GitHub streak"/>
