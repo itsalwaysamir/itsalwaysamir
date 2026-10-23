@@ -23,7 +23,7 @@
 I'm Amir, an AI engineer based in Hamburg. I love turning large language models into products that actually help people.
 After **7+ years** in data analysis, data science and AI engineering, I now build **LLM-powered backends, AI agents and cloud-native services**.
 
-- 🎙️ **Currently:** AI Application Developer at **[freenet](https://www.freenet-group.de)**, building the backend of
+- 🎙️ **Currently:** AI Application Developer at **[freenet AG](https://www.freenet-group.de)**, building the backend of
   **Genie**, freenet's AI voice assistant for customer service, and the AI platform behind it
 - 🧠 **Focus:** agentic workflows (LangGraph / LangChain), Amazon Bedrock & Claude, RAG, Model Context Protocol (MCP)
 - ⚙️ **How I work:** Python & Node.js, CI/CD, containers, AWS, and AI-assisted development with **Claude Code**
